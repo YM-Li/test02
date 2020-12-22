@@ -5,5 +5,6 @@ public class Test {
     private String age;
     private String address;
     private String address02;
+    private String address03;
 
 }
